@@ -25,11 +25,7 @@ This includes the ability to handle multiple countdowns, provide notifications w
 
 - Responsive Design: Ensure the application is responsive and works seamlessly across different devices and screen sizes.
 
-- This project is conducted as part of an internship program provided by Unified Mentor.
-
-As an intern, I have received mentorship and guidance from experienced industry professionals and skilled student mentors. 
-
-This mentorship aims to support my growth in software development, providing valuable insights and feedback throughout the project lifecycle.
+- This project is conducted as part of an internship program provided by Unified Mentor. 
 
 ## Results Of The Countdown Timer Application 
 
@@ -47,4 +43,4 @@ I welcome contributions to the Countdown Timer project!
 
 I would like to extend my heartfelt thanks to Unified Mentor for providing the opportunity and support for this internship project.
 
-Additionally, thank you to all future contributors who will dedicate their time and effort to improving the Countdown Timer project.
+
