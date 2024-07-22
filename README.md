@@ -38,9 +38,6 @@ This mentorship aims to support my growth in software development, providing val
 <img width="1033" alt="countdown2" src="https://github.com/HotShot003/Vanilla-JavaScript-Projects/assets/121120034/d4cb4f42-e14f-4b98-9f5a-5d44f1fae1bc">
 
 
-## Live Demo 
-
-[![Live Demo](https://img.shields.io/badge/LiveDemo%20-%23276DC3.svg?&style=for-the-badge&logo=&logoColor=white)](https://count-down-timer-rouge.vercel.app/)
 
 ## Contributing
 
